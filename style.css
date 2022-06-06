@@ -18,3 +18,14 @@ h2 {
     text-align: center;
     color: #ff6a23;
 }
+
+.menu {
+    margin-top: 20px;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0;
+}
