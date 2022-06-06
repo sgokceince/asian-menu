@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;700&family=Hubballi&family=Josefin+Sans:ital@1&family=Nunito+Sans:wght@400;600;700&family=Open+Sans:wght@400;700&family=Shadows+Into+Light&family=Zilla+Slab:wght@400;500;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;700&family=Great+Vibes&family=Hubballi&family=Josefin+Sans:ital@1&family=Nunito+Sans:wght@400;600;700&family=Open+Sans:wght@400;700&family=Shadows+Into+Light&display=swap');
 * {
     box-sizing: border-box;
     
@@ -10,4 +10,11 @@ body {
     padding: 0;
     background: #f1f5f8;
     font-family: 'Zilla Slab', serif;
+}
+
+h2 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 3rem;
+    text-align: center;
+    color: #ff6a23;
 }
