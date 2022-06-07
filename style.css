@@ -29,6 +29,15 @@ h2 {
     align-items: center;
     margin: 40px 0;
 }
+
 .btn-item {
     margin-left: 15px;
+}
+
+.photo {
+    width: 30%;
+    height: 175px;
+    object-fit: cover;
+    border: 0.25rem solid black;
+    border-radius: 10px;
 }
